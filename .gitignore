@@ -1,3 +1,4 @@
 secretes.json
 
 *.log
+print ("hi")
